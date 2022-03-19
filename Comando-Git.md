@@ -30,6 +30,7 @@ RAMAS
 - git branch -m rama1 ramaB : cambia el nombre de "rama1" a "ramaB"
 - git checkout rama1 : con esto se cambia de una rama a otra, en este caso iría de master hacia rama1
 - git branch -d rama1 : elimina una rama
+- git diff master rama1 : muestra la diferencia que hay entre master y rama1
 
 COMANDOS AYUDA
 - git version : muestra la versión de git
